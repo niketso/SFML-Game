@@ -1,0 +1,8 @@
+
+bin/Win32/
+bin/x64/
+BreakOut/obj/
+.vs/
+ipch/
+*.VC.db
+*.VC.VC.opendb

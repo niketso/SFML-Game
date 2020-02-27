@@ -6,3 +6,4 @@ BreakOut/obj/
 ipch/
 *.VC.db
 *.VC.VC.opendb
+BreakOut/*.dll
